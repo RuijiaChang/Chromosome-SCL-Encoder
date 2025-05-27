@@ -2,7 +2,7 @@
 
 Official implementation of our ICIP 2025 paper:
 
-> **Domain-Generalized Encoder for Chromosome Classification**  
+> **Visual Encoders for Generalized Chromosome Recognition**  
 > Ruijia Chang†, Tao Zhou†, Suncheng Xiang, Yujia Wang, Kui Su*, Yin Zhou*, Dahong Qian*, Jun Wang*  
 > † Co-first authors. * Corresponding authors.
 
