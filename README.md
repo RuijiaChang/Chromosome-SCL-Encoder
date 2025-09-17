@@ -100,6 +100,7 @@ python test.py
 If you use this code or build on our work, please cite:
 
 ```bibtex
-xx
+R. Chang et al., "Visual Encoders for Generalized Chromosome Recognition," 2025 IEEE International Conference on Image Processing (ICIP), Anchorage, AK, USA, 2025, pp. 1444-1449, doi: 10.1109/ICIP55913.2025.11084686. 
+
 ```
 
